@@ -13,7 +13,7 @@ st.set_page_config(
 def load_model():
     return CreditRiskModel()
 
- 
+
 model = load_model()
 
 model = load_model()
